@@ -242,4 +242,4 @@ This repository serves as the official landing page for ShowMore. The software i
 **Get the most recent version of ShowMore today!**
 
 ---
-**Last updated:** 2026-10-04 14:40:56 UTC
+**Last updated:** 2026-10-04 18:28:56 UTC
